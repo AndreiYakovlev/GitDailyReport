@@ -8,8 +8,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{26623796-6C4C-436B-B4C9-2DDB08535631}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Git_Report_Daily</RootNamespace>
-    <AssemblyName>Git Report Daily</AssemblyName>
+    <RootNamespace>GitDailyReport</RootNamespace>
+    <AssemblyName>GitDailyReport</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommitItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

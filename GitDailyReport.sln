@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git Report Daily", "Git Report Daily\Git Report Daily.csproj", "{26623796-6C4C-436B-B4C9-2DDB08535631}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDailyReport", "Git Report Daily\GitDailyReport.csproj", "{26623796-6C4C-436B-B4C9-2DDB08535631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
