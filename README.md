@@ -2,6 +2,7 @@
 Daily report for repository and his submodules for SourceTree. Messages grouped by Author
 
 SETUP
+
 0. Build project
 1. Add SourceTree custom action in Tools -> Options -> Custom Actions -> Add
 2. Enter your action name
